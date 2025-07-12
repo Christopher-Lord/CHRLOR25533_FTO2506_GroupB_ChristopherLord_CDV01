@@ -18,19 +18,22 @@ By completing this reflection, you will gain a clearer understanding of your car
 -  **Name: Christopher Lord**
 -  **Date: 12/07/025**
 -  **Current Role/Position: Student**
--  **Field of Interest: Front-End Web development/ 3D Animation**
+-  **Field of Interest: Software Development/ 3D Animation**
 
 ### Part 1: Self-Assessment Reflection
 
 1. #### Skills Analysis:
 
-   -  **Current Skills**
-      <u>Web Development</u> 
+   -  **Current Skills:**
+
+      Web Development
+
       - HTML 
       - Basic CSS 
       - Github/ Git
 
-      <u>3D Animation/ Lighting</u>
+      3D Animation/ Lighting
+
       - Maya
       - Nuke
       - Arnold
@@ -70,29 +73,29 @@ By completing this reflection, you will gain a clearer understanding of your car
 2. **Alignment with Personal Profile**:
 
    - I think the industries/roles mentioned fit rather well with my current and future skill set, and interests. They all involve working in an artistic capacity and include some form of problem solving.  
-   <br>
-   - I would like to explore my career options a bit further, as I have always wanted to get into game development. I want to explore what going down that route would require and take the steps necessary to move in that direction. 
 
+   - I would like to explore my career options a bit further, as I have always wanted to get into game development. I want to explore what going down that route would require and take the steps necessary to move in that direction. 
+   <br>
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
 
-   - Complete the CodeSpace course with at least a 75% average, which will give me a leg up to landing a job as a junior developer within the first few months of 2026.
-      : Completing the course and finding a job in the development space will be the first step to moving up in the development world.
+   - ***Complete the CodeSpace course with at least a 75% average, which will give me a leg up to landing a job as a junior developer within the first few months of 2026.***
+      -  Completing the course and finding a job in the development space will be the first step to moving up in the development world.
 
-   - Dedicate time to learning two new coding languages by August 2026 in order to broaden my skill set and increase my career opportunities.
-      : Learning new coding languages, like MEL or C++, will increase the amount of opportunities I have and allow me to start working towards my future goals.
+   - ***Dedicate time to learning two new coding languages by August 2026 in order to broaden my skill set and increase my career opportunities.***
+      - Learning new coding languages, like MEL or C++, will increase the amount of opportunities I have and allow me to start working towards my future goals.
 
-   - Work my way up from junior to mid-level developer by the end of 2027 in order to increase my experience in the industry.
-      : Working my way up in the development industry will hopefully give me the experience needed to work on bigger projects.
+   - ***Work my way up from junior to mid-level developer by the end of 2027 in order to increase my experience in the industry.***
+      - Working my way up in the development industry will hopefully give me the experience needed to work on bigger projects.
 
 2. **Long-term Goals** (3-5 years and beyond):
 
-   -  Get back into the animation industry by the end of 2028 so I can start merging my two skill sets.
-      : Getting back into the animation industry with my new development skills will allow me to use both sets of skills that I've learned to get me one step closer to entering the gaming industry.
+   -  ***Get back into the animation industry by the end of 2028 so I can start merging my two skill sets.***
+      - Getting back into the animation industry with my new development skills will allow me to use both sets of skills that I've learned to get me one step closer to entering the gaming industry.
 
-   - Learn everything that is required to get a job in the gaming industry and use that to hopefully land a game dev job around 2030.
-      : The gaming industry is one that aligns with almost all my interests and working my way towards that will help me develop the skills necessary to accomplish my goal.
+   - ***Learn everything that is required to get a job in the gaming industry and use that to hopefully land a game dev job around 2030.***
+      - The gaming industry is one that aligns with almost all my interests and working my way towards that will help me develop the skills necessary to accomplish my goal.
 
 ### Part 4: Action Plan
 
@@ -105,8 +108,9 @@ By completing this reflection, you will gain a clearer understanding of your car
 
    - Work to the best of my ability in order to work my way up the ladder at whatever company I end up at.
 <br>
-2. **Preparation for Long-term Goals**:
-   -  To prepare for my long term goals I will need to make sure I understand the intricacies of both industries that I want to merge. I will need to make sure I find a way in which both fields can come together in harmony.
+2. **Preparation for Long-term Goals:**
+
+   - To prepare for my long term goals I will need to make sure I understand the intricacies of both industries that I want to merge. I will need to make sure I find a way in which both fields can come together in harmony.
    - I will need experience in software development with a proven track record of tools and apps to show my skills.
    - Moving to the gaming industry will require learning some new software, such as Unreal Engine or Unity. 
 
