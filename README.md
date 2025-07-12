@@ -107,7 +107,7 @@ By completing this reflection, you will gain a clearer understanding of your car
    - Sign up for and conduct research on websites like Udemy, in order to find the best place to learn the new coding languages.
 
    - Work to the best of my ability in order to work my way up the ladder at whatever company I end up at.
-<br>
+
 2. **Preparation for Long-term Goals:**
 
    - To prepare for my long term goals I will need to make sure I understand the intricacies of both industries that I want to merge. I will need to make sure I find a way in which both fields can come together in harmony.
